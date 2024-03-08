@@ -10,7 +10,7 @@ new Chart(ctx, {
       "Jan",
       "Feb",
       "Mar",
-      "Apr",
+      "April",
       "May",
       "Jun",
       "Jul",
